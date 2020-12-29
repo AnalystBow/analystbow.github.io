@@ -4,6 +4,16 @@
 
 ### Data Engineering Projects
 
+
+|| 
+|:------------------------------------|
+| Data Modeling with Postgres         | 
+| Data Modeling with Apache Cassandra | 
+| ETL Pipeline and Data Warehouse     | 
+| ETL Pipeline and Data Lake          | 
+| Data Pipelines with Airflow         | 
+
+
 [Data Modeling with Postgres](/sample_page)
 
 #### Introduction
