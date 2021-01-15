@@ -33,7 +33,7 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 They'd like a data engineer to create an Apache Cassandra database which can create queries on song play data to answer the questions. My role was to create a database for this analysis.
 
 #### Project Overview
-In this project, you'll apply what you've learned on data modeling with Apache Cassandra and complete an ETL pipeline using Python. To complete the project, I modeled the data by creating tables in Apache Cassandra to run queries. 
+To complete the project, I modeled the data by creating tables in Apache Cassandra to run queries. 
 
 
 ---
