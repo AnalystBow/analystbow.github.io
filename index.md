@@ -11,9 +11,7 @@
 | Data Modeling with Apache Cassandra | 
 | ETL Pipeline and Data Warehouse     | 
 
----
-
-## Data Modeling with Postgres
+### Data Modeling with Postgres
 
 #### Introduction
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
@@ -25,7 +23,7 @@ In this project, I applied my data modeling with Postgres skills to build an ETL
 
 ---
 
-## Data Modeling with Apache Cassandra
+### Data Modeling with Apache Cassandra
 
 #### Introduction
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analysis team is particularly interested in understanding what songs users are listening to. Currently, there is no easy way to query the data to generate the results, since the data reside in a directory of CSV files on user activity on the app.
@@ -38,7 +36,7 @@ To complete the project, I modeled the data by creating tables in Apache Cassand
 
 ---
 
-## ETL Pipeline and Data Warehouse
+### ETL Pipeline and Data Warehouse
 
 #### Project Description
 A music streaming startup, Sparkify, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
