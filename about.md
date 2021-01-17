@@ -1,6 +1,8 @@
 # About
 ### Bio
 
+---
+
 Best way to get my attention: Tell me you make better jollof rice than me. I'm not a great cook or anything (hence Data Engineer and not a Chef) - I just love to cook and show off.
 
 So now that food is off the table, here's me. A data professional with knowledge and expertise in maximizing scalability, I build pipelines, analyze large datasets to streamline decision making process and cultivate efficiencies. I'm always looking for opportunities to get into a state of "flow" - seeking fun, engaging problems to work on. Once i'm there, it's magic. Now all I need is someone to pay me to do it.
@@ -16,6 +18,8 @@ Work aside, I'm always looking forward to travelling - whether it's a new countr
 
 I'd love to hear from you!
 
+---
+
 ## Data Engineering skills and tools
 
 * **Languages:** ```Python, SQL, Java, R```
@@ -23,12 +27,15 @@ I'd love to hear from you!
 * **Batch ETL:** ```Python, SparkSQL```
 * **Workflow Management:** ```Airflow```
 
+---
 
 ## Data Science skills and tools
 
 * **Languages:** ```Python, R, SQL```
 * **Machine Learning:** ```Supervised, Unsupervised```
 * **Visualization:** ```Plotly, Tableau```
+
+---
 
 ## Business Analytics skills and tools
 
