@@ -4,7 +4,6 @@
 
 
 ### Data Engineering Projects
-
 || 
 |:------------------------------------|
 | Data Modeling with Postgres         | 
