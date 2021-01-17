@@ -1,4 +1,7 @@
 # About
+
+---
+
 ### Bio
 
 ---
@@ -17,6 +20,10 @@ With a newfound love for Data Engineering (I continue to learn everyday), moving
 Work aside, I'm always looking forward to travelling - whether it's a new country or just a train ride to a place I haven't been before. I also love working on side projects that educate people about reducing the amount of food waste that we produce in our kitchen. 
 
 I'd love to hear from you!
+
+---
+
+### Skills
 
 ---
 
