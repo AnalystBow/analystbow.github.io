@@ -6,7 +6,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://analystbow.github.io/about">About me</a> 
   <br>
   <a href="https://www.linkedin.com/in/waliyato/">View My LinkedIn Profile</a> 
-  
-  theme: jekyll-theme-minimal
 
 theme: jekyll-theme-minimal
