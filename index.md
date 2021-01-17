@@ -11,6 +11,7 @@
 | Data Modeling with Apache Cassandra | 
 | ETL Pipeline and Data Warehouse     | 
 
+---
 
 [Data Modeling with Postgres]
 
@@ -23,6 +24,7 @@ They'd like a data engineer to create a Postgres database with tables designed t
 In this project, I applied my data modeling with Postgres skills to build an ETL pipeline using Python. To complete the project, I defined fact and dimension tables for a star schema for a particular analytic focus, and wrote an ETL pipeline that transfers data from files in two local directories into tables in Postgres using Python and SQL. 
 
 ---
+
 [Data Modeling with Apache Cassandra]
 
 #### Introduction
@@ -35,6 +37,7 @@ To complete the project, I modeled the data by creating tables in Apache Cassand
 
 
 ---
+
 [ETL Pipeline and Data Warehouse]
 
 #### Project Description
