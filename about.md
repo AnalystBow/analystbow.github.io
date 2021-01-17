@@ -32,7 +32,7 @@ I'd love to hear from you!
 ## Data Science skills and tools
 
 * **Languages:** ```Python, R, SQL```
-* **Machine Learning:** ```Supervised, Unsupervised```
+* **Machine Learning:** ```Supervised Learning, Unsupervised Learning```
 * **Visualization:** ```Plotly, Tableau```
 
 ---
