@@ -10,7 +10,7 @@ Best way to get my attention: Tell me you make better jollof rice than me. I'm n
 
 So now that food is off the table, here's me. A data professional with knowledge and expertise in maximizing scalability, I build pipelines, analyze large datasets to streamline decision making process and cultivate efficiencies. I'm always looking for opportunities to get into a state of "flow" - seeking fun, engaging problems to work on. Once i'm there, it's magic. Now all I need is someone to pay me to do it.
 
-With experience is Data Analytics and Business Analytics, I have helped teams & clients:
+With experience in Data Analytics and Business Analytics, I have helped teams & clients:
 - Shape big visions into actual products and services
 - Translate technical jargon into simple terms
 - Translate data opportunities into business outcome
