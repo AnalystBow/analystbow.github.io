@@ -1,16 +1,12 @@
-
 title: Waliyat Olayiwola # your name (or website title) here
 logo: "/images/Logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   ## Data Engineer 
-  <br>
+  <br><br>
   ## [About me](/about.md) 
-  <br>
+  <br><br>
  ### Data Engineer with background in Business Analytics, Data Science and Data Analytics through work experience and rigorous coursework in Statistics and Machine Learning.I have done several projects which make use of skills from Data Engineering and Data Science to answer questions using data. 
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/waliyato/">View My LinkedIn Profile</a> 
-  
-  
-
 
 theme: jekyll-theme-minimal
