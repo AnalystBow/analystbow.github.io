@@ -2,14 +2,15 @@
 
 ---
 
-### Data Engineering Projects
 
+### Data Engineering Projects
 
 || 
 |:------------------------------------|
 | Data Modeling with Postgres         | 
 | Data Modeling with Apache Cassandra | 
 | ETL Pipeline and Data Warehouse     | 
+
 
 ### Data Modeling with Postgres
 
